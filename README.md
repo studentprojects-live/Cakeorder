@@ -5,7 +5,7 @@ Programming Language used:
 Front End: VB.NET
 Back End: SQL Server
 
-For more informtion visit: 
+For more information visit: 
 http://www.studentprojectguide.com/vb-net/cake-ordering-system/
 
 Video Demo link:
