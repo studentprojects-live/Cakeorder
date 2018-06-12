@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cakeorder", "Cakeorder\Cakeorder.vbproj", "{707CD8DF-6F06-41AE-93DF-B0FFB5265ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707CD8DF-6F06-41AE-93DF-B0FFB5265ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707CD8DF-6F06-41AE-93DF-B0FFB5265ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707CD8DF-6F06-41AE-93DF-B0FFB5265ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707CD8DF-6F06-41AE-93DF-B0FFB5265ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
