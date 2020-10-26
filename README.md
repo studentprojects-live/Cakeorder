@@ -6,7 +6,7 @@ Front End: VB.NET
 Back End: SQL Server
 
 For more information visit: 
-http://www.studentprojectguide.com/vb-net/cake-ordering-system/
+https://www.studentprojects.live/vb-net-projects/cake-ordering-system/
 
 Video Demo link:
 https://www.youtube.com/embed/nnoD_HT1uk0
